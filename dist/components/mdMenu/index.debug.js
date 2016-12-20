@@ -182,7 +182,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "/Users/mrufino/Projects/personal/github/vue-material/src/components/mdMenu/mdMenu.vue"
+	__vue_options__.__file = "C:\\Users\\User\\Desktop\\intellij\\vue-material\\src\\components\\mdMenu\\mdMenu.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	
@@ -193,9 +193,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-22d3fafa", __vue_options__)
+	    hotAPI.createRecord("data-v-5a642dfd", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-22d3fafa", __vue_options__)
+	    hotAPI.reload("data-v-5a642dfd", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] mdMenu.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -494,22 +494,22 @@ return /******/ (function(modules) { // webpackBootstrap
 /***/ 141:
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;
-	  return _h('div', {
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return _c('div', {
 	    staticClass: "md-menu"
-	  }, [_vm._t("default"), " ", _h('md-backdrop', {
+	  }, [_vm._t("default"), _vm._v(" "), _c('md-backdrop', {
 	    ref: "backdrop",
 	    staticClass: "md-menu-backdrop md-transparent md-active",
 	    on: {
 	      "close": _vm.close
 	    }
-	  })])
+	  })], true)
 	},staticRenderFns: []}
 	module.exports.render._withStripped = true
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-22d3fafa", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-5a642dfd", module.exports)
 	  }
 	}
 
@@ -537,7 +537,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "/Users/mrufino/Projects/personal/github/vue-material/src/components/mdMenu/mdMenuItem.vue"
+	__vue_options__.__file = "C:\\Users\\User\\Desktop\\intellij\\vue-material\\src\\components\\mdMenu\\mdMenuItem.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	
@@ -548,9 +548,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-472832b6", __vue_options__)
+	    hotAPI.createRecord("data-v-febfdda0", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-472832b6", __vue_options__)
+	    hotAPI.reload("data-v-febfdda0", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] mdMenuItem.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -694,8 +694,8 @@ return /******/ (function(modules) { // webpackBootstrap
 /***/ 145:
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;
-	  return _h('md-list-item', {
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return _c('md-list-item', {
 	    staticClass: "md-menu-item",
 	    class: _vm.classes,
 	    attrs: {
@@ -704,13 +704,13 @@ return /******/ (function(modules) { // webpackBootstrap
 	    on: {
 	      "click": _vm.close
 	    }
-	  }, [_vm._t("default")])
+	  }, [_vm._t("default")], true)
 	},staticRenderFns: []}
 	module.exports.render._withStripped = true
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-472832b6", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-febfdda0", module.exports)
 	  }
 	}
 
@@ -738,7 +738,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "/Users/mrufino/Projects/personal/github/vue-material/src/components/mdMenu/mdMenuContent.vue"
+	__vue_options__.__file = "C:\\Users\\User\\Desktop\\intellij\\vue-material\\src\\components\\mdMenu\\mdMenuContent.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	
@@ -749,9 +749,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  if (!hotAPI.compatible) return
 	  module.hot.accept()
 	  if (!module.hot.data) {
-	    hotAPI.createRecord("data-v-8d56a7b4", __vue_options__)
+	    hotAPI.createRecord("data-v-5d9f836c", __vue_options__)
 	  } else {
-	    hotAPI.reload("data-v-8d56a7b4", __vue_options__)
+	    hotAPI.reload("data-v-5d9f836c", __vue_options__)
 	  }
 	})()}
 	if (__vue_options__.functional) {console.error("[vue-loader] mdMenuContent.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -840,8 +840,8 @@ return /******/ (function(modules) { // webpackBootstrap
 /***/ 148:
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;
-	  return _h('div', {
+	module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._c;
+	  return _c('div', {
 	    staticClass: "md-menu-content",
 	    attrs: {
 	      "tabindex": "-1"
@@ -873,13 +873,13 @@ return /******/ (function(modules) { // webpackBootstrap
 	        _vm.fireClick($event)
 	      }]
 	    }
-	  }, [_h('md-list', [_vm._t("default")])])
+	  }, [_c('md-list', [_vm._t("default")], true)])
 	},staticRenderFns: []}
 	module.exports.render._withStripped = true
 	if (false) {
 	  module.hot.accept()
 	  if (module.hot.data) {
-	     require("vue-hot-reload-api").rerender("data-v-8d56a7b4", module.exports)
+	     require("vue-hot-reload-api").rerender("data-v-5d9f836c", module.exports)
 	  }
 	}
 
